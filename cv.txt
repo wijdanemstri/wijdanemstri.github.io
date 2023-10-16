@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Realisation de CV</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="style css.css" />
+</head>
+<body>
+    <main>
+       <header>
+                <div class="photo">
+                    <img src="ma photo.png" width="100%" height="100%" alt="">
+                </div>
+              <div class="des">
+                    <h3>MASTARI WIJDANE</h3>
+                    <p class="post">Etudiante en troisième année
+                    cycle ingénieur en sciences géomatiques
+                    et ingénierie topographique</p>
+                </div>
+       
+       </header>
+
+
+<section class="section-left">
+   
+
+     <h4>Parcours académique</h4>
+    <hr class="light">
+       <div class="div">
+           <div><b> 2018 </b>  Obtention du baccalauréat avec mention très bien <br>
+           </div>
+           <br>
+           <div><b>2021 </b>  réussite du concours CNC aux classes préparatoires Mly Idriss Fes<br> &emsp; &emsp;&nbsp; rejoint de l'IAV hassan II en cycle ingénieur Topographie
+           </div>
+       </div>
+
+    <h4>Expériences professionnelles</h4>
+     <hr class="light">
+        <div class="div">
+          <div><b> 2022 </b>  Stage  d'observation au cadastre et à l'agence de conservation foncère de FES <br>
+           </div>
+         <br>
+          <div><b> Mai 2023 </b>  Stage  de professionnalisation dans la région de Sidi Allal El Bahraoui (1 mois) <br>
+           </div> 
+        <br>
+          <div><b> Septembre 2023 </b>  Stage en entreprise dans la société GEOLAMBERT (1 mois)<br>
+           </div> 
+
+    <h4>Compétences</h4>
+    <hr class="light">
+      <div class="div">
+
+                <div class="po">
+                    <p>Topographie classique</p>
+                    <div class="cool">
+                        <div style="width:90%" class="inner"></div>
+                    </div>
+                </div>
+
+                <div class="po">
+                    <p>Photogrammétrie</p>
+                    <div class="cool">
+                        <div style="width:80%" class="inner"> </div>
+                    </div>
+                </div>
+
+                <div class="po">
+                    <p>Cartographie</p>
+                    <div class="cool">
+                        <div style="width:70%" class="inner"> </div>
+                    </div>
+                </div>
+
+                <div class="po">
+                    <p>Maitrise des logiciels</p>
+                    <div class="cool">
+                        <div style="width:60%" class="inner"> </div>
+                    </div>
+                </div>
+            </div>
+</section>
+<section class="section-right">
+
+
+
+     <h4>Langues</h4>
+     <hr class="light">
+     <div class="skls">
+         <div class="po">
+                    <p>Français</p>
+                    <div class="cool">
+                        <div style="width:90%" class="inner"> </div>
+                    </div>
+                </div>
+                <div class="po">
+                    <p>Anglais</p>
+                    <div class="cool">
+                        <div style="width:50%" class="inner"> </div>
+                    </div>
+                </div>
+      </div>
+     <h4>Coordonnées</h4>
+     <hr class="light">
+     <div class="interet">
+
+      <p><img src="l.png" class="info"><span>https://www.linkedin.com/feed/</span></p> 
+      <p><img src="photo_instagram.png" class="info">  https://https://www.instagram.com/</span></p>
+      <p><img src="f.png" class="info"><span>https://https://web.facebook.com/?_rdc=1&_rdr</span></p> 
+      <p><img src="photo_mail.png" class="info"><span>https://wijdanemst2000@gmail.com</span></p> 
+      <p><img src="photo_maps.png" class="info"><span>MAROC</span></p> 
+     </div>
+    <p> &emsp;&emsp;  <img src="telephone.png" class="info"><span>+212655182112</span></p> 
+     </div>
+
+    <h4>Centres d'intérêt</h4>
+     <hr class="light">
+     <div class="interet">
+          <div><b>Sport</b></div>
+          <div><b>Naviguer sur Internet</b></div>
+          <div><b>Lecture</b></div>
+          <div><b>Voyage</b></div>
+     </div>
+</section>
+
+
+        <div class="srkl">
+
+        </div>
+     <hr class="light">
+    </main>
+</body>
+
+</html>
